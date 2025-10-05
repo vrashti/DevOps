@@ -3,24 +3,18 @@ DevOps Journey
 Step 1: Build Strong Foundations
 Before tools, get clarity on basics:
 Linux → commands, processes, services, users, permissions, logs.
-
 Networking → DNS, HTTP/HTTPS, TCP/IP, load balancing, firewalls.
-
 Programming/Scripting → at least Bash and one higher-level language (Python is great for automation).
-
 Git → version control basics (clone, commit, push, branch, merge, rebase).
 
 Step 2: Learn Cloud Computing
 Almost all DevOps roles need cloud knowledge.
 Start with AWS (most in-demand).
-
 EC2, S3, IAM, VPC, RDS, Load Balancers, Auto Scaling.
-
 Alternatives: Azure or GCP (similar concepts).
 
 Step 3: CI/CD (Core of DevOps)
 Learn Jenkins (pipelines, plugins).
-
 Explore GitHub Actions or GitLab CI/CD.
 
 Understand concepts:
